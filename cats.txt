@@ -1,102 +1,67 @@
-feline, felid
-big cat, cat
-saber-toothed tiger, sabertooth
-Smiledon californicus
-false saber-toothed tiger
-lion, king of beasts, Panthera leo
-lion cub
-lioness
-lionet
-liger
-jaguar, panther, Panthera onca, Felis onca
-snow leopard, ounce, Panthera uncia
-tiglon, tigon
-leopard, Panthera pardus
-leopardess
-panther
-tiger, Panthera tigris
-tigress
-Bengal tiger
-tiger cub
-cheetah, chetah, Acinonyx jubatus
-cat, true cat
-domestic cat, house cat, Felis domesticus, Felis catus
-Egyptian cat
-tortoiseshell, tortoiseshell-cat, calico cat
-tabby, tabby cat
-Abyssinian, Abyssinian cat
-alley cat
-Burmese cat
-tabby, queen
-Maltese, Maltese cat
-Manx, Manx cat
-Siamese cat, Siamese
-blue point Siamese
-tom, tomcat
-gib
-Angora, Angora cat
-tiger cat
-kitty, kitty-cat, puss, pussy, pussycat
-Persian cat
-mouser
-wildcat
-ocelot, panther cat, Felis pardalis
-manul, Pallas's cat, Felis manul
-cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
-jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
-lynx, catamount
-Canada lynx, Lynx canadensis
-caracal, desert lynx, Lynx caracal
-common lynx, Lynx lynx
-spotted lynx, Lynx pardina
-bobcat, bay lynx, Lynx rufus
-margay, margay cat, Felis wiedi
-jungle cat, Felis chaus
-kaffir cat, caffer cat, Felis ocreata
-tiger cat, Felis tigrina
-European wildcat, catamountain, Felis silvestris
-leopard cat, Felis bengalensis
-serval, Felis serval
-sand cat
-musteline mammal, mustelid, musteline
-badger
-ferret badger
-Eurasian badger, Meles meles
-American badger, Taxidea taxus
-hog badger, hog-nosed badger, sand badger, Arctonyx collaris
-polecat, fitch, foulmart, foumart, Mustela putorius
-ferret
-tayra, taira, Eira barbara
-sea otter, Enhydra lutris
-ratel, honey badger, Mellivora capensis
-wolverine, carcajou, skunk bear, Gulo luscus
-weasel
-ermine, shorttail weasel, Mustela erminea
-stoat
-muishond
-zoril, Ictonyx frenata
-snake muishond, Poecilogale albinucha
-striped muishond, Ictonyx striata
-Old World least weasel, Mustela nivalis
-longtail weasel, long-tailed weasel, Mustela frenata
-New World least weasel, Mustela rixosa
-marten, marten cat
-stone marten, beech marten, Martes foina
-fisher, pekan, fisher cat, black cat, Martes pennanti
-pine marten, Martes martes
-yellow-throated marten, Charronia flavigula
-American marten, American sable, Martes americana
-sable, Martes zibellina
-skunk, polecat, wood pussy
-striped skunk, Mephitis mephitis
-spotted skunk, little spotted skunk, Spilogale putorius
-hog-nosed skunk, hognosed skunk, badger skunk, rooter skunk, Conepatus leuconotus
-hooded skunk, Mephitis macroura
-black-footed ferret, ferret, Mustela nigripes
-grison, Grison vittatus, Galictis vittatus
-glutton, Gulo gulo, wolverine
-mink
-American mink, Mustela vison
-otter
-river otter, Lutra canadensis
-Eurasian otter, Lutra lutra
+n02120692	Felidae, family Felidae
+n02120997	feline, felid
+n02121234	Felis, genus Felis
+n02121620	cat, true cat
+n02121808	domestic cat, house cat, Felis domesticus, Felis catus
+n02122298	kitty, kitty-cat, puss, pussy, pussycat
+n02122430	mouser
+n02122510	alley cat
+n02122580	stray
+n02122725	tom, tomcat
+n02122810	gib
+n02122878	tabby, queen
+n02122948	kitten, kitty
+n02123045	tabby, tabby cat
+n02123159	tiger cat
+n02123242	tortoiseshell, tortoiseshell-cat, calico cat
+n02123394	Persian cat
+n02123478	Angora, Angora cat
+n02123597	Siamese cat, Siamese
+n02123785	blue point Siamese
+n02123917	Burmese cat
+n02124075	Egyptian cat
+n02124157	Maltese, Maltese cat
+n02124313	Abyssinian, Abyssinian cat
+n02124484	Manx, Manx cat
+n02124623	wildcat
+n02125010	sand cat
+n02125081	European wildcat, catamountain, Felis silvestris
+n02125311	cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+n02125494	ocelot, panther cat, Felis pardalis
+n02125689	jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
+n02125872	kaffir cat, caffer cat, Felis ocreata
+n02126028	jungle cat, Felis chaus
+n02126139	serval, Felis serval
+n02126317	leopard cat, Felis bengalensis
+n02126465	tiger cat, Felis tigrina
+n02126640	margay, margay cat, Felis wiedi
+n02126787	manul, Pallas's cat, Felis manul
+n02126951	genus Lynx
+n02127052	lynx, catamount
+n02127292	common lynx, Lynx lynx
+n02127381	Canada lynx, Lynx canadensis
+n02127482	bobcat, bay lynx, Lynx rufus
+n02127586	spotted lynx, Lynx pardina
+n02127678	caracal, desert lynx, Lynx caracal
+n02127808	big cat, cat
+n02128120	Panthera, genus Panthera
+n02128385	leopard, Panthera pardus
+n02128598	leopardess
+n02128669	panther
+n02128757	snow leopard, ounce, Panthera uncia
+n02128925	jaguar, panther, Panthera onca, Felis onca
+n02129165	lion, king of beasts, Panthera leo
+n02129463	lioness
+n02129530	lionet
+n02129604	tiger, Panthera tigris
+n02129837	Bengal tiger
+n02129923	tigress
+n02129991	liger
+n02130086	tiglon, tigon
+n02130190	Acinonyx, genus Acinonyx
+n02130308	cheetah, chetah, Acinonyx jubatus
+n02130545	saber-toothed tiger, sabertooth
+n02130795	Smiledon, genus Smiledon
+n02130925	Smiledon californicus
+n02131076	Nimravus, genus Nimravus
+n02131211	false saber-toothed tiger
